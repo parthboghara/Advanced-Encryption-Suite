@@ -41,4 +41,4 @@ This project combines **Caesar Cipher**, **AES-256 password-based encryption**, 
 Use the following command to clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Advanced-Encryption-Suite.git
+git clone https://github.com/parthboghara/Advanced-Encryption-Suite.git
