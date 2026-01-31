@@ -36,3 +36,9 @@ This project combines **Caesar Cipher**, **AES-256 password-based encryption**, 
 - AES encryption is performed using Fernet (AES + HMAC)
 - Same password is required for decryption
 
+## 📥 Clone the Repository
+
+Use the following command to clone this repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Advanced-Encryption-Suite.git
